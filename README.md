@@ -52,8 +52,7 @@ The project includes multiple data visualizations to better understand the datas
 ## 📁 Project Structure
 
 
-data-analyst-job-market-analysis/  
-│── data/  
+data-analyst-job-market-analysis/    
 │── notebook.ipynb  
 │── images/  
 │── README.md  
