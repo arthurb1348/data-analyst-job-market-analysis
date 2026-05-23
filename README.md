@@ -49,6 +49,21 @@ The project includes multiple data visualizations to better understand the datas
 
 ---
 
+### Statistical skills strengthened
+
+This project was also used as a way to strengthen my statistical foundations before applying to a Data Science / Statistics-oriented program.
+
+The latest version includes:
+- descriptive statistics;
+- salary distribution analysis;
+- quartiles and interquartile range;
+- outlier detection;
+- correlation analysis;
+- simple linear regression;
+- methodological limitations.
+
+- ---
+
 ## 📁 Project Structure
 
 
@@ -56,7 +71,6 @@ data-analyst-job-market-analysis/
 │── notebook.ipynb  
 │── images/  
 │── README.md  
-
 
 ---
 
