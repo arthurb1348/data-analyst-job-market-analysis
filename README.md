@@ -75,6 +75,15 @@ jupyter notebook
 
 ---
 
+## Dataset
+
+This project uses the "Data Analyst Jobs" dataset from Kaggle:
+https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs
+
+Place the file `DataAnalyst.csv` in the `data/` folder before running the notebook.
+
+---
+
 ## 🎯 Purpose
 
 This project was developed as part of my transition into Data Analysis, with a focus on:
